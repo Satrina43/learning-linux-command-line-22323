@@ -1,0 +1,7 @@
+echo "# learning-linux-command-line-22323" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Satrina43/learning-linux-command-line-22323.git
+git push -u origin main
